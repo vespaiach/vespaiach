@@ -6,6 +6,6 @@ I'm an enthusiastic web developer. I love doing websites and delivering them wit
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking for NFT projects to contribute to
 - 📫 How to reach me: https://www.facebook.com/nta.toan/
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: still learning how to code and do babysit parallel
 
