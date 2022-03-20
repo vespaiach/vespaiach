@@ -14,6 +14,6 @@
 * [vespaiach.com](https://www.vespaiach.com/)
 
 
-### Stats
+### My (incomplete) GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=vespaiach&show_icons=true&theme=gruvbox&count_private=true" />
