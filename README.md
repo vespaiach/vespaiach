@@ -1,7 +1,7 @@
 ###### ***Frontend Developer***
 
-* **Languages:** JavaScript (ES2021), Node.js, Typescript, CSS, Sass, HTML
-* **Frameworks:** React.js/Redux/Redux-Saga/React-Router, React-Spring, Marterial UI, Tailwind CSS
+* **Languages:** JavaScript (ES2021), NodeJS, Python, Typescript, CSS, Sass, HTML
+* **Frameworks:** React.js/Redux/Redux-Saga/React-Router, VueJS, React-Spring, Django, Marterial UI, Tailwind CSS
 * **Skills:** Responsive Web Design, Site & Image Optimization, Web
 * **Web Technologies:** Node.js, RxJS, Express, REST, GraphQL, GitHub Actions
 * **Tools:** Git, Vim, Webpack, Rollup, ESLint, Webpack, Jest
