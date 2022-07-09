@@ -8,7 +8,7 @@
 
 ### You can also reach me on
 
-* [LinkedIn](https://www.linkedin.com/in/tony-nguyen-0a701526/)
+* [LinkedIn](https://www.linkedin.com/in/trinh-nguyen-0a701526/)
 * [Facebook](https://www.facebook.com/nta.toan/)
 * [Twitter](https://twitter.com/vespaiach)
 * [vespaiach.com](https://www.vespaiach.com/)
