@@ -1,19 +1,22 @@
-###### ***Frontend Developer***
+###### ***Software Engineer***
 
-* **Languages:** JavaScript (ES2021), NodeJS, Python, Typescript, CSS, Sass, HTML
-* **Frameworks:** React.js/Redux/Redux-Saga/React-Router, VueJS, React-Spring, Django, Marterial UI, Tailwind CSS
-* **Skills:** Responsive Web Design, Site & Image Optimization, Web
-* **Web Technologies:** Node.js, RxJS, Express, REST, GraphQL, GitHub Actions
-* **Tools:** Git, Vim, Webpack, Rollup, ESLint, Webpack, Jest
-
-### You can also reach me on
-
-* [LinkedIn](https://www.linkedin.com/in/trinh-nguyen-0a701526/)
-* [Facebook](https://www.facebook.com/nta.toan/)
-* [Twitter](https://twitter.com/vespaiach)
-* [vespaiach.com](https://www.vespaiach.com/)
-
+* **Languages:** JavaScript, NodeJS, Typescript, CSS, HTML, Ruby, Python, Php
+* **Frameworks:** React.js, React-Router, Tailwindcss, Next.js, Vue.js, Ruby on Rails, Express.js, Wordpress, Django
+* **Tests:** Jest, React Testing Library, Mocha
+* **Databases:** PostgresQL, MariaDB
+* **Tools:** Vite.js, Rollup.js, Esbuild, Git, Vscode, Vim, ESLint
+* **Web Servers:** Nginx, Puma
+* **Skills:** Web development, Web Performance Optimization
 
 ### My (incomplete) GitHub stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=vespaiach&show_icons=true&theme=gruvbox&count_private=true" />
+
+### Reach me on
+
+* [LinkedIn](https://www.linkedin.com/in/trinh-nguyen-0a701526/)
+* [Facebook](https://www.facebook.com/nta.toan/)
+
+### Blog
+
+[vespaiach.com](www.vespaiach.com)
