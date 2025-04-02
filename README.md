@@ -1,12 +1,12 @@
 ###### ***Software Engineer***
 
-* **Languages:** JavaScript, NodeJS, Typescript, CSS, HTML, Ruby, Python, Php
-* **Frameworks:** React.js, React-Router, Tailwindcss, Next.js, Vue.js, Ruby on Rails, Express.js, Wordpress, Django
+* **Languages:** JavaScript, NodeJS, Typescript, CSS, HTML, Ruby, Php
+* **Frameworks:** React.js, React-Router, Tailwindcss, Next.js, Vue.js, Ruby on Rails, Wordpress
 * **Tests:** Jest, React Testing Library, Mocha
 * **Databases:** PostgresQL, MariaDB
 * **Tools:** Vite.js, Rollup.js, Esbuild, Git, Vscode, Vim, ESLint
 * **Web Servers:** Nginx, Puma
-* **Skills:** Web development, Web Performance Optimization
+* **Skills:** Web development
 
 ### My (incomplete) GitHub stats
 
