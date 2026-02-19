@@ -8,10 +8,6 @@
 * **Web Servers:** Nginx, Puma
 * **Skills:** Web development
 
-### My (incomplete) GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=vespaiach&show_icons=true&theme=gruvbox&count_private=true" />
-
 ### Reach me on
 
 * [LinkedIn](https://www.linkedin.com/in/trinh-nguyen-0a701526/)
