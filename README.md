@@ -12,6 +12,7 @@
 
 * [LinkedIn](https://www.linkedin.com/in/trinh-nguyen-0a701526/)
 * [Facebook](https://www.facebook.com/nta.toan/)
+* [Online CV](https://flowcv.com/resume/tncq42sgrw55)
 
 ### Blog
 
