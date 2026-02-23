@@ -1,7 +1,7 @@
 ###### ***Software Engineer***
 
-* **Languages:** JavaScript, NodeJS, Typescript, CSS, HTML, Ruby, Php
-* **Frameworks:** React.js, React-Router, Tailwindcss, Next.js, Vue.js, Ruby on Rails, Wordpress
+* **Languages:** JavaScript, NodeJS, Typescript, CSS, HTML, Ruby, Php, C#
+* **Frameworks:** React.js, React-Router, Tailwindcss, Next.js, Vue.js, Ruby on Rails, Wordpress, ASP.NET
 * **Tests:** Jest, React Testing Library, Mocha
 * **Databases:** PostgresQL, MariaDB
 * **Tools:** Vite.js, Rollup.js, Esbuild, Git, Vscode, Vim, ESLint
